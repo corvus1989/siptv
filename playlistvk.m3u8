@@ -12,3 +12,10 @@ http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/3/stream
 http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/1188/stream.m3u8
 #EXTINF:-1,МАТЧ!
 http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/695/stream.m3u8
+#EXTINF:-1,Матч ТВ op2
+http://91.219.23.234:8000/play/3/index.m3u8
+#EXTINF:-1,Матч ТВ HD op2
+http://91.219.23.234:8000/play/104/index.m3u8
+#EXTINF:-1,Ностальгия
+http://91.219.23.234:8000/play/594/index.m3u8
+
