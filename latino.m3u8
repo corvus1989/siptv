@@ -5,7 +5,7 @@ http://200.24.132.99:8000/play/a025
 #EXTINF:-1,AXN
 http://200.24.132.99:8000/play/a02p
 
-#EXTINF : -1,Animal Planet
+#EXTINF: -1,Animal Planet
 http://200.24.132.99:8000/play/a01y
 
 #EXTINF:-1,CNN Espanol
@@ -89,7 +89,7 @@ http://200.24.132.99:8000/play/a02f
 #EXTINF:-1,Fox Sports 2
 http://200.24.132.99:8000/play/a028
 
-#EXTINF : -1,Fox Sports 3
+#EXTINF: -1,Fox Sports 3
 http://200.24.132.99:8000/play/a029
 
 #EXTINF:-1,France 24
@@ -116,7 +116,7 @@ http://200.24.132.99:8000/play/a01i
 #EXTINF:-1,Nat Geo
 http://200.24.132.99:8000/play/a01d
 
-#EXTINF :- 1,NatGeo Kids
+#EXTINF:- 1,NatGeo Kids
 http://200.24.132.99:8000/play/a01l
 
 #EXTINF:-1,Nick Jr
@@ -170,7 +170,7 @@ http://200.24.132.99:8000/play/a00m
 #EXTINF:-1,Teleamazonas
 http://200.24.132.99:8000/play/a02l
 
-#EXTINF :-1 ,Telemundo
+#EXTINF:-1 ,Telemundo
 http://200.24.132.99:8000/play/a02a
 
 #EXTINF:-1,TyC
